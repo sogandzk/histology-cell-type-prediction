@@ -1,1 +1,1 @@
-# histology-cell-type-prediction
+# histopathology-cell-type-prediction
